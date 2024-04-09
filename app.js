@@ -1,0 +1,1 @@
+var title = document.querySelectorAll(h2)

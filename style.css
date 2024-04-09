@@ -57,6 +57,7 @@ p {
 
 .panel {
     margin: 2px 20px;
+    display: none;
 }
 
 #icon-star {
